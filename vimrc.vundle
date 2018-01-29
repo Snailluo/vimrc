@@ -1,0 +1,14 @@
+  set nocompatible				"这是必须的
+  filetype off					"这是必须的
+" vundle运行路径
+  set rtp+=$HOME/vimfiles/bundle/Vundle.vim
+  call vundle#begin('$HOME/vimfiles/bundle')
+
+" vundle 插件本身，这行必须是第一个
+  Plugin 'VundleVim/Vundle.vim'
+" airline 状态栏
+  Plugin 'bling/vim-airline' 
+" airline themes
+  Plugin 'vim-airline/vim-airline-themes'
+ 
+  call vundle#end()

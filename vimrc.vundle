@@ -13,7 +13,7 @@
 
 " git
 " fugitive
-  Plugin 'tpope/fugitive'
+" Plugin 'tpope/fugitive'
 " gitgutter
   Plugin 'airblade/vim-gitgutter'
  

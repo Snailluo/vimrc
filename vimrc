@@ -54,6 +54,7 @@ behave mswin
   set tabstop=4					" ????
   colorscheme solarized			" Gvim配色
   set background=dark
+  syntax on 
 
 " }}}
 

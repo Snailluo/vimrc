@@ -10,5 +10,11 @@
   Plugin 'bling/vim-airline' 
 " airline themes
   Plugin 'vim-airline/vim-airline-themes'
+
+" git
+" fugitive
+  Plugin 'tpope/fugitive'
+" gitgutter
+  Plugin 'airblade/vim-gitgutter'
  
   call vundle#end()
